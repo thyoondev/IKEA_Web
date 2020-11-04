@@ -9,6 +9,7 @@
 
 ### Screenshot
 | ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/ikea/1901.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/ikea/1901.png) |
+|:---:|
 
 ### Todo
 - Fullpage 라이브러리 사용
